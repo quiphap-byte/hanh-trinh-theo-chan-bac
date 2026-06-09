@@ -1,0 +1,6 @@
+{
+  "name": "Hành trình theo chân Bác - Phường Dĩ An",
+  "description": "Nền tảng học tập tương tác về lịch sử cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh theo chặng hành trình game hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
